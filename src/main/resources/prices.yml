@@ -1,0 +1,15 @@
+# Price PER ITEM, using Minecraft material names (see the Spigot Material list).
+# Items that are not listed here cannot be sold and are handed back to the player.
+# Restart the server after editing this file.
+
+COBBLESTONE: 0.5
+STONE: 1
+COAL: 5
+IRON_INGOT: 15
+GOLD_INGOT: 25
+DIAMOND: 100
+EMERALD: 75
+NETHERITE_INGOT: 1000
+WHEAT: 2
+CARROT: 2
+POTATO: 2

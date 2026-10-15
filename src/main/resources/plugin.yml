@@ -1,0 +1,12 @@
+name: SellGui
+version: 1.0.0
+main: com.example.sellgui.SellGui
+api-version: "26.2"
+description: Sell items through a GUI, paid with Vault
+depend: [Vault]
+# Load before EssentialsX so /sell belongs to this plugin instead of Essentials
+loadbefore: [Essentials]
+commands:
+  sell:
+    description: Open the sell menu
+    usage: /sell
